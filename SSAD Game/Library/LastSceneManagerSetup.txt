@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/GUIPack-Clean&Minimalist/Demo/Scenes/DarkSkin-DemoHomeScene.unity
+- path: Assets/Hydro Logic/Scenes/Level1_HL.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
