@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941091971941",
+    "firebase_url": "https://integration-db.firebaseio.com",
+    "project_id": "integration-db",
+    "storage_bucket": "integration-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941091971941:android:c96aa9bb783024367f378c",
+        "android_client_info": {
+          "package_name": "edu.ntu.miniGameHub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941091971941-u4coqd3q360thu2up0etmke1hqcimm75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Wngil8tU8xeV0av2H3neSW7oiny8fr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941091971941-u4coqd3q360thu2up0etmke1hqcimm75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
